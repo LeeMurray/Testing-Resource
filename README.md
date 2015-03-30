@@ -16,4 +16,4 @@ A Repository of Testing Resource
 * [The Dojo](https://dojo.ministryoftesting.com/) - Online training videos
 
 ####Automation
-* [Free Selenium Training](http://www.seleniumtests.com/p/free-selenium-training.html)
+* [Free Selenium Training](http://www.seleniumtests.com/p/free-selenium-training.html) - Free online selenium training site
