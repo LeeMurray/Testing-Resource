@@ -8,9 +8,9 @@ A Repository of Testing Resource
     - [Firefox](#Firefox)
     - [Chrome](#Chrome)
 
-## Online Resources
-### Learning
-#### Code
+##Online Resources
+###Learning
+####Code
 * [Codecadamy](http://www.codecademy.com/) - Learn to write code
 
 ####Courses
