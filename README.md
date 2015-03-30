@@ -54,4 +54,3 @@ A Repository of Testing Resource
 * [Firebug](http://getfirebug.com/releases/lite/chrome/) - Edit, debug, and monitor CSS, HTML, and JavaScript live in any web page.
 * [REST Console](https://chrome.google.com/webstore/detail/rest-console/cokgbflfommojglbmbpenpphppikmonn) - HTTP Request Visualizer and Constructor
 * [RegExp Tester App](https://chrome.google.com/webstore/detail/regexp-tester-app/cmmblmkfaijaadfjapjddbeaoffeccib) - Create and test regular expressions.
-* 
