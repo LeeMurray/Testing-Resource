@@ -1,8 +1,8 @@
 # Testing-Resource
 A Repository of Testing Resource 
 
-- [Online Resources](https://github.com/LeeMurray/Testing-Resource/blob/master/README.md#online-resources)
-  - [Learning](https://github.com/LeeMurray/Testing-Resource/blob/master/README.md#Learning) 
+- [Online Resources](#online-resources)
+  - [Learning](#learning) 
 - [Tools](#tools)
   - [Browser Add-On's](https://github.com/LeeMurray/Testing-Resource/blob/master/README.md#Browser%20Add-on's)
     - [Firefox](https://github.com/LeeMurray/Testing-Resource/blob/master/README.md#Firefox)
