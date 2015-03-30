@@ -4,7 +4,7 @@ A Repository of Testing Resource
 - [Online Resources] (#online-resources)
   - [Learning] (#Learning) 
 - [Tools] (#Tools)
-  - [Browser Add-On's] (#Browser Add-On's)
+  - [Browser Add-On's] (#Browser-add-on's)
     - [Firefox] (#Firefox)
     - [Chrome] (#Chrome)
 
