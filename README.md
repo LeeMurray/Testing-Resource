@@ -3,7 +3,7 @@ A Repository of Testing Resource
 
 - [Online Resources](https://github.com/LeeMurray/Testing-Resource/blob/master/README.md#online-resources)
   - [Learning](https://github.com/LeeMurray/Testing-Resource/blob/master/README.md#Learning) 
-- [Tools](https://github.com/LeeMurray/Testing-Resource/blob/master/README.md#tools)
+- [Tools](#tools)
   - [Browser Add-On's](https://github.com/LeeMurray/Testing-Resource/blob/master/README.md#Browser%20Add-on's)
     - [Firefox](https://github.com/LeeMurray/Testing-Resource/blob/master/README.md#Firefox)
     - [Chrome](https://github.com/LeeMurray/Testing-Resource/blob/master/README.md#Chrome)
