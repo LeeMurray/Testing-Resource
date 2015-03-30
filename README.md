@@ -3,6 +3,9 @@ A Repository of Testing Resource
 
 - [Online Resources](#online-resources)
   - [Learning](#learning) 
+    - [code](#code)
+    - [Courses](#courses)
+    - [Automation](#automation)
 - [Tools](#tools)
   - [Browser Add-On's](#browser-add-on's)
     - [Firefox](#firefox)
