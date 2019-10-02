@@ -1,15 +1,16 @@
 # Testing-Resource
 A Repository of Testing Resource 
 
-- [Online Resources](#online-resources)
-  - [Learning](#learning) 
-    - [code](#code)
-    - [Courses](#courses)
-    - [Automation](#automation)
-- [Tools](#tools)
-  - [Browser Add-On's](#browser-add-on's)
-    - [Firefox](#firefox)
-    - [Chrome](#chrome)
+- [Online Resources](##Online-Resources)
+  - [Learning](###Learning) 
+    - [code](####Code)
+    - [Courses](####Courses)
+    - [Online Videos](####Online-Videos)
+    - [Automation](####Automation)
+- [Tools](#Tools)
+  - [Browser Add-On's](##Browser-Add-On's)
+    - [Firefox](###Firefox)
+    - [Chrome](###Chrome)
 - [Reading](#reading)
 
 ##Online Resources
@@ -26,9 +27,9 @@ A Repository of Testing Resource
 ####Automation
 * [Free Selenium Training](http://www.seleniumtests.com/p/free-selenium-training.html) - Free online selenium training site
 
-## Tools
-### Browser Add-On's
-####Firefox
+##Tools
+##Browser Add-On's
+###Firefox
 * [Accessibility Evaluation Toolbar](https://addons.mozilla.org/en-US/firefox/addon/5809) -  Chedcks for iCITA HTML Best Practices.
 * [Awsome Screen Shot](http://awesomescreenshot.com/) - Capture, Annotate and Share
 * [Clear Cache Button](https://addons.mozilla.org/en-US/firefox/addon/clear-cache-button/) - Adds a clear cache toolbar button.
@@ -50,7 +51,6 @@ A Repository of Testing Resource
 * [WebShots](https://addons.mozilla.org/en-US/firefox/addon/webshots/) - Takes Screen Shots of web sites.
 
 ###Chrome
-
 * [Awsome Screen Shot](http://awesomescreenshot.com/) - Capture, Annotate and Share
 * [Firebug](http://getfirebug.com/releases/lite/chrome/) - Edit, debug, and monitor CSS, HTML, and JavaScript live in any web page.
 * [REST Console](https://chrome.google.com/webstore/detail/rest-console/cokgbflfommojglbmbpenpphppikmonn) - HTTP Request Visualizer and Constructor
