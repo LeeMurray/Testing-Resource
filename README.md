@@ -13,23 +13,23 @@ A Repository of Testing Resource
     - [Chrome](###Chrome)
 - [Reading](#reading)
 
-##Online Resources
-###Learning
-####Code
+## Online Resources
+### Learning
+#### Code
 * [Codecadamy](http://www.codecademy.com/) - Learn to write code
 
-####Courses
+#### Courses
 * [Ministry of Testing](http://www.ministryoftesting.com/) - Courses
 
-####Online Videos
+#### Online Videos
 * [The Dojo](https://dojo.ministryoftesting.com/) - Online training videos
 
-####Automation
+#### Automation
 * [Free Selenium Training](http://www.seleniumtests.com/p/free-selenium-training.html) - Free online selenium training site
 
-##Tools
-##Browser Add-On's
-###Firefox
+## Tools
+### Browser Add-On's
+#### Firefox
 * [Accessibility Evaluation Toolbar](https://addons.mozilla.org/en-US/firefox/addon/5809) -  Chedcks for iCITA HTML Best Practices.
 * [Awsome Screen Shot](http://awesomescreenshot.com/) - Capture, Annotate and Share
 * [Clear Cache Button](https://addons.mozilla.org/en-US/firefox/addon/clear-cache-button/) - Adds a clear cache toolbar button.
@@ -50,11 +50,11 @@ A Repository of Testing Resource
 * [Page validator](https://addons.mozilla.org/en-US/firefox/addon/page-validator/) - Validates a page using the W3C Markup Validation Service.
 * [WebShots](https://addons.mozilla.org/en-US/firefox/addon/webshots/) - Takes Screen Shots of web sites.
 
-###Chrome
+#### Chrome
 * [Awsome Screen Shot](http://awesomescreenshot.com/) - Capture, Annotate and Share
 * [Firebug](http://getfirebug.com/releases/lite/chrome/) - Edit, debug, and monitor CSS, HTML, and JavaScript live in any web page.
 * [REST Console](https://chrome.google.com/webstore/detail/rest-console/cokgbflfommojglbmbpenpphppikmonn) - HTTP Request Visualizer and Constructor
 * [RegExp Tester App](https://chrome.google.com/webstore/detail/regexp-tester-app/cmmblmkfaijaadfjapjddbeaoffeccib) - Create and test regular expressions.
 * [Bug Magnet](https://bugmagnet.org/) - In test tool
 
-##Reading
+## Reading
