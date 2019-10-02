@@ -17,7 +17,7 @@
 | AA99 9AA | All Other Postcodes | DN55 1PT |
 | BFPO | British Armed Forces (Special Postcode) |
 
-## Overseas Territories
+## OVERSEAS TERRITORIES
 | Postcode | Location |
 | --- | --- |
 | AI-2640 | Anguilla |
