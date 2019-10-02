@@ -36,6 +36,8 @@ A Repository of Testing Resource
 | [WebShots](https://addons.mozilla.org/en-US/firefox/addon/webshots/) | Takes Screen Shots of web sites. |
 
 #### Chrome
+| Link | Info |
+| --- | --- |
 | [Awsome Screen Shot](http://awesomescreenshot.com/) | Capture, Annotate and Share |
 | [Firebug](http://getfirebug.com/releases/lite/chrome/) | Edit, debug, and monitor CSS, HTML, and JavaScript live in any web page. |
 | [REST Console](https://chrome.google.com/webstore/detail/rest-console/cokgbflfommojglbmbpenpphppikmonn) | HTTP Request Visualizer and Constructor |
