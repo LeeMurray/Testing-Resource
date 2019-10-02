@@ -1,9 +1,9 @@
 # POSTCODES
 
 ## POST CODE GENERAL FORMAT
-| POSTCODE      | | |
-| --- | --- | --- | --- |
-| Outward Code  | | Inward Code     | |
+| POSTCODE                                                          ||||
+| ------------- | ----------------- | --- | --- |
+| Outward Code                     || Inward Code                    ||
 | Postcode Area | Postcode District | Postcode Sector | Postcode Unit |
 | SW            | 1W                | 0               | NY            |
 
