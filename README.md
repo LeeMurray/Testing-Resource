@@ -1,22 +1,10 @@
 # Testing-Resource
 A Repository of Testing Resource 
 
-- [Online Resources](##Online-Resources)
-  - [Learning](###Learning) 
-    - [Code](####Code)
-    - [Courses](####Courses)
-    - [Online Videos](####Online-Videos)
-    - [Automation](####Automation)
-- [Tools](#Tools)
-  - [Browser Add-On's](##Browser-Add-On's)
-    - [Firefox](###Firefox)
-    - [Chrome](###Chrome)
-- [Reading](#reading)
-
 ## Online Resources
 ### Learning
 #### Code
-* [Codecadamy](http://www.codecademy.com/) - Learn to write code
+| [Codecadamy](http://www.codecademy.com/) | Learn to write code |
 
 #### Courses
 * [Ministry of Testing](http://www.ministryoftesting.com/) - Courses
