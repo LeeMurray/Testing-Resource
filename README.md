@@ -1,12 +1,12 @@
 # Testing-Resource
 A Repository of Testing Resource 
 
-- [Online Resources](##Online-Resources)
-  - [Learning](###Learning) 
-    - [code](####Code)
-    - [Courses](####Courses)
-    - [Online Videos](####Online-Videos)
-    - [Automation](####Automation)
+- [Online Resources](## Online-Resources)
+  - [Learning](### Learning) 
+    - [Code](#### Code)
+    - [Courses](#### Courses)
+    - [Online Videos](#### Online-Videos)
+    - [Automation](#### Automation)
 - [Tools](#Tools)
   - [Browser Add-On's](##Browser-Add-On's)
     - [Firefox](###Firefox)
