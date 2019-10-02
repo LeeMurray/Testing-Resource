@@ -95,7 +95,7 @@
 
 # FRAMEWORKS
 
-| Framework 	 | Description |																																																																	  |
+| Framework 	 | Description  |																																																																	  |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Judgement		 | Inconsistencies, Absences and Extras with respect to Internal, External - Specific, or External - Cultural references points.																																					  |
 | Observations	 | Input/Output/Linkage																																																																  |
