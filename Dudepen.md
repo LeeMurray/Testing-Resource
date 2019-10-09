@@ -1,4 +1,5 @@
 # DUDEPEN!
+A simple mnemonic for writing defects
 
 ## DIRECT
 Refine your language and writing in order to increase the clarity of your report, be precise but plain in your words and sentences. Aim to achieve that your report is understood by (at least) 
