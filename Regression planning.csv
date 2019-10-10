@@ -1,0 +1,43 @@
+Regression Planning,"Business
+District
+3-9 hrs","Historical
+District
+1.5-4.5 hrs","Entertainment 
+District
+1.5-4.5 hrs","Tourist 
+District
+2.5-7.5 hrs","Hotel 
+District
+1-3 hrs","Seedy 
+District
+1.5-4.5 hrs",Days Testing  This Plan,Notes,,
+UAT2,X,,,X,X,X,,"Concentrating on MTA and Cancellations, lightly covering other areas should we have time",KEY,
+,,,,,,,,,X,Coverage Plan 0 mins
+,,,,,,,,,L,90 mins Per Test
+,,,,,,,,,M,60 mins Per Test
+,,,,,,,,,S,30 mins Per Test
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
